@@ -1,6 +1,6 @@
-## How to add your birthday
+# How to add your birthday
 
-# Edit the file data/birthday.csv
+## Edit the file data/birthday.csv
 
 Go to **data** folder and select **birthday.csv** file.
 Click on pen to edit the file.
@@ -11,6 +11,7 @@ Add your line at the end of the file
 ```
 username,YYYY-MM-DD,message(optional)
 ```
+## Create a pull request
 
 Scrolldown and select **Create a new branch for this commit and start a pull request. Learn more about pull requests.** option, and click **Propose file change**.
 
